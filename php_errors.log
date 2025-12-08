@@ -1,0 +1,612 @@
+[29-Sep-2025 05:18:29 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"12","payment_method":"cash","dining_option":"dine_in"}
+[29-Sep-2025 05:18:29 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 05:18:29 Europe/Berlin] Database connection successful
+[29-Sep-2025 05:18:29 Europe/Berlin] Processing products: 10
+[29-Sep-2025 05:18:29 Europe/Berlin] Creating order with total amount: 100
+[29-Sep-2025 05:18:29 Europe/Berlin] Table number: 12
+[29-Sep-2025 05:18:29 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 05:18:29 Europe/Berlin] Generated order number: ORD-20250929-4700
+[29-Sep-2025 05:18:29 Europe/Berlin] Order created successfully with ID: 72
+[29-Sep-2025 05:18:29 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[29-Sep-2025 05:18:29 Europe/Berlin] Transaction committed successfully
+[29-Sep-2025 05:18:47 Europe/Berlin] Received order request: {"items":[{"id":"8","name":"Cappuccino","price":120,"quantity":1}],"table_number":"15","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 05:18:47 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 05:18:47 Europe/Berlin] Database connection successful
+[29-Sep-2025 05:18:47 Europe/Berlin] Processing products: 8
+[29-Sep-2025 05:18:47 Europe/Berlin] Creating order with total amount: 120
+[29-Sep-2025 05:18:47 Europe/Berlin] Table number: 15
+[29-Sep-2025 05:18:47 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 05:18:47 Europe/Berlin] Generated order number: ORD-20250929-2448
+[29-Sep-2025 05:18:47 Europe/Berlin] Order created successfully with ID: 73
+[29-Sep-2025 05:18:47 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[29-Sep-2025 05:18:47 Europe/Berlin] Transaction committed successfully
+[29-Sep-2025 13:49:10 Europe/Berlin] Received order request: {"items":[{"id":"8","name":"Cappuccino","price":120,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:49:10 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:49:10 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:49:10 Europe/Berlin] Processing products: 8
+[29-Sep-2025 13:49:10 Europe/Berlin] Creating order with total amount: 120
+[29-Sep-2025 13:49:10 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:49:10 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:49:10 Europe/Berlin] Generated order number: ORD-20250929-4843
+[29-Sep-2025 13:49:10 Europe/Berlin] Order created successfully with ID: 74
+[29-Sep-2025 13:49:10 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[29-Sep-2025 13:49:10 Europe/Berlin] Transaction committed successfully
+[29-Sep-2025 13:54:17 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:54:17 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:17 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:17 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:17 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:17 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:17 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:54:17 Europe/Berlin] Generated order number: ORD-20250929-5103
+[29-Sep-2025 13:54:25 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:54:25 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:25 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:25 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:25 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:25 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:25 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:54:25 Europe/Berlin] Generated order number: ORD-20250929-9473
+[29-Sep-2025 13:54:26 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:54:26 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:26 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:26 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:26 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:26 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:26 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:54:26 Europe/Berlin] Generated order number: ORD-20250929-4450
+[29-Sep-2025 13:54:28 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:54:28 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:28 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:28 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:28 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:28 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:28 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:54:28 Europe/Berlin] Generated order number: ORD-20250929-3847
+[29-Sep-2025 13:54:32 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"take_out"}
+[29-Sep-2025 13:54:32 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:32 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:32 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"take_out"}
+[29-Sep-2025 13:54:32 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:54:32 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:32 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:54:32 Europe/Berlin] Processing products: 2
+[29-Sep-2025 13:54:32 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:32 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:32 Europe/Berlin] Creating order with total amount: 80
+[29-Sep-2025 13:54:32 Europe/Berlin] Dining option: take_out
+[29-Sep-2025 13:54:32 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:54:32 Europe/Berlin] Generated order number: ORD-20250929-5720
+[29-Sep-2025 13:54:32 Europe/Berlin] Dining option: take_out
+[29-Sep-2025 13:54:32 Europe/Berlin] Generated order number: ORD-20250929-5227
+[29-Sep-2025 13:58:09 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:09 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:09 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:09 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:09 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:09 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:09 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:09 Europe/Berlin] Generated order number: ORD-20250929-1657
+[29-Sep-2025 13:58:11 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:11 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:11 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:11 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:11 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:11 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:11 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:11 Europe/Berlin] Generated order number: ORD-20250929-3498
+[29-Sep-2025 13:58:11 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:11 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:11 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:11 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:11 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:11 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:11 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:11 Europe/Berlin] Generated order number: ORD-20250929-8652
+[29-Sep-2025 13:58:11 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:11 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:11 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:11 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:11 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:11 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:11 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:11 Europe/Berlin] Generated order number: ORD-20250929-3981
+[29-Sep-2025 13:58:11 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:11 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:11 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:11 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:11 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:11 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:11 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:11 Europe/Berlin] Generated order number: ORD-20250929-9590
+[29-Sep-2025 13:58:14 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 13:58:14 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 13:58:14 Europe/Berlin] Database connection successful
+[29-Sep-2025 13:58:14 Europe/Berlin] Processing products: 3
+[29-Sep-2025 13:58:14 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 13:58:14 Europe/Berlin] Table number: 12
+[29-Sep-2025 13:58:14 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 13:58:14 Europe/Berlin] Generated order number: ORD-20250929-5435
+[29-Sep-2025 14:00:50 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[29-Sep-2025 14:00:50 Europe/Berlin] Attempting database connection...
+[29-Sep-2025 14:00:50 Europe/Berlin] Database connection successful
+[29-Sep-2025 14:00:50 Europe/Berlin] Processing products: 3
+[29-Sep-2025 14:00:50 Europe/Berlin] Creating order with total amount: 90
+[29-Sep-2025 14:00:50 Europe/Berlin] Table number: 12
+[29-Sep-2025 14:00:50 Europe/Berlin] Dining option: dine_in
+[29-Sep-2025 14:00:50 Europe/Berlin] Generated order number: ORD-20250929-6376
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Warning:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:105
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(105): PDOStatement->execute(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 105
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 14:10:14 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 138
+[29-Sep-2025 15:09:53 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[29-Sep-2025 15:09:53 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Database connection failed in C:\xampp\htdocs\PrototypeMNTSDEV\config\database.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\kiosk.php(2): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\config\database.php on line 18
+[29-Sep-2025 15:09:57 Europe/Berlin] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[29-Sep-2025 15:09:57 Europe/Berlin] PHP Fatal error:  Uncaught Exception: Database connection failed in C:\xampp\htdocs\PrototypeMNTSDEV\config\database.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\kiosk.php(2): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\config\database.php on line 18
+[22-Oct-2025 15:17:26 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"12","payment_method":"cash","dining_option":"dine_in"}
+[22-Oct-2025 15:17:26 Europe/Berlin] Attempting database connection...
+[22-Oct-2025 15:17:26 Europe/Berlin] Database connection successful
+[22-Oct-2025 15:17:26 Europe/Berlin] Processing products: 10
+[22-Oct-2025 15:17:26 Europe/Berlin] Creating order with total amount: 100
+[22-Oct-2025 15:17:26 Europe/Berlin] Table number: 12
+[22-Oct-2025 15:17:26 Europe/Berlin] Dining option: dine_in
+[22-Oct-2025 15:17:26 Europe/Berlin] Generated order number: ORD-20251022-4112
+[22-Oct-2025 15:17:26 Europe/Berlin] Order created successfully with ID: 75
+[22-Oct-2025 15:17:26 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 15:17:26 Europe/Berlin] Transaction committed successfully
+[22-Oct-2025 15:27:41 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"12","payment_method":"cash","dining_option":"dine_in"}
+[22-Oct-2025 15:27:41 Europe/Berlin] Attempting database connection...
+[22-Oct-2025 15:27:41 Europe/Berlin] Database connection successful
+[22-Oct-2025 15:27:41 Europe/Berlin] Processing products: 10
+[22-Oct-2025 15:27:41 Europe/Berlin] Creating order with total amount: 100
+[22-Oct-2025 15:27:41 Europe/Berlin] Table number: 12
+[22-Oct-2025 15:27:41 Europe/Berlin] Dining option: dine_in
+[22-Oct-2025 15:27:41 Europe/Berlin] Generated order number: ORD-20251022-9984
+[22-Oct-2025 15:27:41 Europe/Berlin] Order created successfully with ID: 76
+[22-Oct-2025 15:27:41 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 15:27:41 Europe/Berlin] Transaction committed successfully
+[22-Oct-2025 15:32:34 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"12","payment_method":"cash","dining_option":"dine_in"}
+[22-Oct-2025 15:32:34 Europe/Berlin] Attempting database connection...
+[22-Oct-2025 15:32:34 Europe/Berlin] Database connection successful
+[22-Oct-2025 15:32:34 Europe/Berlin] Processing products: 10
+[22-Oct-2025 15:32:34 Europe/Berlin] Creating order with total amount: 100
+[22-Oct-2025 15:32:34 Europe/Berlin] Table number: 12
+[22-Oct-2025 15:32:34 Europe/Berlin] Dining option: dine_in
+[22-Oct-2025 15:32:34 Europe/Berlin] Generated order number: ORD-20251022-0475
+[22-Oct-2025 15:32:34 Europe/Berlin] Order created successfully with ID: 77
+[22-Oct-2025 15:32:34 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 15:32:34 Europe/Berlin] Transaction committed successfully
+[22-Oct-2025 15:34:02 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"22","payment_method":"cash","dining_option":"dine_in"}
+[22-Oct-2025 15:34:02 Europe/Berlin] Attempting database connection...
+[22-Oct-2025 15:34:02 Europe/Berlin] Database connection successful
+[22-Oct-2025 15:34:02 Europe/Berlin] Processing products: 10
+[22-Oct-2025 15:34:02 Europe/Berlin] Creating order with total amount: 100
+[22-Oct-2025 15:34:02 Europe/Berlin] Table number: 22
+[22-Oct-2025 15:34:02 Europe/Berlin] Dining option: dine_in
+[22-Oct-2025 15:34:02 Europe/Berlin] Generated order number: ORD-20251022-4770
+[22-Oct-2025 15:34:02 Europe/Berlin] Order created successfully with ID: 78
+[22-Oct-2025 15:34:02 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 15:34:02 Europe/Berlin] Transaction committed successfully
+[22-Oct-2025 15:37:30 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"55","payment_method":"cash","dining_option":"dine_in"}
+[22-Oct-2025 15:37:30 Europe/Berlin] Attempting database connection...
+[22-Oct-2025 15:37:30 Europe/Berlin] Database connection successful
+[22-Oct-2025 15:37:30 Europe/Berlin] Processing products: 10
+[22-Oct-2025 15:37:30 Europe/Berlin] Creating order with total amount: 100
+[22-Oct-2025 15:37:30 Europe/Berlin] Table number: 55
+[22-Oct-2025 15:37:30 Europe/Berlin] Dining option: dine_in
+[22-Oct-2025 15:37:30 Europe/Berlin] Generated order number: ORD-20251022-9321
+[22-Oct-2025 15:37:30 Europe/Berlin] Order created successfully with ID: 79
+[22-Oct-2025 15:37:30 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 15:37:30 Europe/Berlin] Transaction committed successfully
+[22-Oct-2025 15:38:28 Europe/Berlin] Received order request: 
+[22-Oct-2025 15:38:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMNTSDEV\process_kiosk_order.php on line 140
+[22-Oct-2025 16:38:36 Europe/Berlin] Processing online order for customer ID: 1
+[22-Oct-2025 16:38:36 Europe/Berlin] Processing products: 10
+[22-Oct-2025 16:38:36 Europe/Berlin] Generated online order number: ONL-20251022-1534
+[22-Oct-2025 16:38:36 Europe/Berlin] Online order created successfully with ID: 80
+[22-Oct-2025 16:38:36 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 16:38:36 Europe/Berlin] Online order transaction committed successfully
+[22-Oct-2025 17:08:53 Europe/Berlin] Processing online order for customer ID: 2
+[22-Oct-2025 17:08:53 Europe/Berlin] Processing products: 10, 12
+[22-Oct-2025 17:08:53 Europe/Berlin] Generated online order number: ONL-20251022-5438
+[22-Oct-2025 17:08:53 Europe/Berlin] Online order created successfully with ID: 81
+[22-Oct-2025 17:08:53 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[22-Oct-2025 17:08:53 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[22-Oct-2025 17:08:53 Europe/Berlin] Online order transaction committed successfully
+[22-Oct-2025 17:11:24 Europe/Berlin] Processing online order for customer ID: 2
+[22-Oct-2025 17:11:24 Europe/Berlin] Processing products: 2
+[22-Oct-2025 17:11:24 Europe/Berlin] Generated online order number: ONL-20251022-9057
+[22-Oct-2025 17:11:24 Europe/Berlin] Online order created successfully with ID: 82
+[22-Oct-2025 17:11:24 Europe/Berlin] Added order item: Product ID 2, Quantity 2
+[22-Oct-2025 17:11:24 Europe/Berlin] Online order transaction committed successfully
+[23-Oct-2025 02:05:37 Europe/Berlin] Received order request: {"items":[{"id":"12","name":"Caramel Macchiato","price":150,"quantity":1}],"table_number":"6","payment_method":"gcash","dining_option":"dine_in"}
+[23-Oct-2025 02:05:37 Europe/Berlin] Attempting database connection...
+[23-Oct-2025 02:05:37 Europe/Berlin] Database connection successful
+[23-Oct-2025 02:05:37 Europe/Berlin] Processing products: 12
+[23-Oct-2025 02:05:37 Europe/Berlin] Creating order with total amount: 150
+[23-Oct-2025 02:05:37 Europe/Berlin] Table number: 6
+[23-Oct-2025 02:05:37 Europe/Berlin] Dining option: dine_in
+[23-Oct-2025 02:05:37 Europe/Berlin] Generated order number: ORD-20251023-8393
+[23-Oct-2025 02:05:37 Europe/Berlin] Order created successfully with ID: 83
+[23-Oct-2025 02:05:37 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[23-Oct-2025 02:05:37 Europe/Berlin] Transaction committed successfully
+[23-Oct-2025 02:11:20 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"1","payment_method":"cash","dining_option":"take_out"}
+[23-Oct-2025 02:11:20 Europe/Berlin] Attempting database connection...
+[23-Oct-2025 02:11:20 Europe/Berlin] Database connection successful
+[23-Oct-2025 02:11:20 Europe/Berlin] Processing products: 3
+[23-Oct-2025 02:11:20 Europe/Berlin] Creating order with total amount: 90
+[23-Oct-2025 02:11:20 Europe/Berlin] Table number: 1
+[23-Oct-2025 02:11:20 Europe/Berlin] Dining option: take_out
+[23-Oct-2025 02:11:20 Europe/Berlin] Generated order number: ORD-20251023-5826
+[23-Oct-2025 02:11:20 Europe/Berlin] Order created successfully with ID: 84
+[23-Oct-2025 02:11:20 Europe/Berlin] Added order item: Product ID 3, Quantity 1
+[23-Oct-2025 02:11:20 Europe/Berlin] Transaction committed successfully
+[23-Oct-2025 02:13:38 Europe/Berlin] Processing online order for customer ID: 2
+[23-Oct-2025 02:13:38 Europe/Berlin] Processing products: 10
+[23-Oct-2025 02:13:38 Europe/Berlin] Generated online order number: ONL-20251023-6811
+[23-Oct-2025 02:13:38 Europe/Berlin] Online order created successfully with ID: 85
+[23-Oct-2025 02:13:38 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[23-Oct-2025 02:13:38 Europe/Berlin] Online order transaction committed successfully
+[04-Dec-2025 12:07:51 Europe/Berlin] Received order request: {"items":[{"id":"16","name":"Croissant","price":60,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 12:07:51 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 12:07:51 Europe/Berlin] Database connection successful
+[04-Dec-2025 12:07:51 Europe/Berlin] Processing products: 16
+[04-Dec-2025 12:07:51 Europe/Berlin] Creating order with total amount: 60
+[04-Dec-2025 12:07:51 Europe/Berlin] Table number: 12
+[04-Dec-2025 12:07:51 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 12:07:51 Europe/Berlin] Generated order number: ORD-20251204-7043
+[04-Dec-2025 12:07:51 Europe/Berlin] Order created successfully with ID: 83
+[04-Dec-2025 12:07:51 Europe/Berlin] Added order item: Product ID 16, Quantity 1
+[04-Dec-2025 12:07:51 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 13:38:03 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 13:38:03 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 13:38:03 Europe/Berlin] Database connection successful
+[04-Dec-2025 13:38:03 Europe/Berlin] Processing products: 10, 2
+[04-Dec-2025 13:38:03 Europe/Berlin] Creating order with total amount: 180
+[04-Dec-2025 13:38:03 Europe/Berlin] Table number: 12
+[04-Dec-2025 13:38:03 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 13:38:03 Europe/Berlin] Generated order number: ORD-20251204-8886
+[04-Dec-2025 13:38:03 Europe/Berlin] Order created successfully with ID: 84
+[04-Dec-2025 13:38:03 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[04-Dec-2025 13:38:03 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[04-Dec-2025 13:38:03 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 13:38:07 Europe/Berlin] Received order request: {"items":[],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 13:38:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php on line 140
+[04-Dec-2025 13:39:44 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 13:39:44 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 13:39:44 Europe/Berlin] Database connection successful
+[04-Dec-2025 13:39:44 Europe/Berlin] Processing products: 2
+[04-Dec-2025 13:39:44 Europe/Berlin] Creating order with total amount: 80
+[04-Dec-2025 13:39:44 Europe/Berlin] Table number: 12
+[04-Dec-2025 13:39:44 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 13:39:44 Europe/Berlin] Generated order number: ORD-20251204-5135
+[04-Dec-2025 13:39:44 Europe/Berlin] Order created successfully with ID: 85
+[04-Dec-2025 13:39:44 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[04-Dec-2025 13:39:44 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 13:40:06 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"13","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 13:40:06 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 13:40:06 Europe/Berlin] Database connection successful
+[04-Dec-2025 13:40:06 Europe/Berlin] Processing products: 10
+[04-Dec-2025 13:40:06 Europe/Berlin] Creating order with total amount: 100
+[04-Dec-2025 13:40:06 Europe/Berlin] Table number: 13
+[04-Dec-2025 13:40:06 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 13:40:06 Europe/Berlin] Generated order number: ORD-20251204-2434
+[04-Dec-2025 13:40:06 Europe/Berlin] Order created successfully with ID: 86
+[04-Dec-2025 13:40:06 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[04-Dec-2025 13:40:06 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 13:42:14 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"15","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 13:42:14 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 13:42:14 Europe/Berlin] Database connection successful
+[04-Dec-2025 13:42:14 Europe/Berlin] Processing products: 10
+[04-Dec-2025 13:42:14 Europe/Berlin] Creating order with total amount: 100
+[04-Dec-2025 13:42:14 Europe/Berlin] Table number: 15
+[04-Dec-2025 13:42:14 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 13:42:14 Europe/Berlin] Generated order number: ORD-20251204-3115
+[04-Dec-2025 13:42:14 Europe/Berlin] Order created successfully with ID: 87
+[04-Dec-2025 13:42:14 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[04-Dec-2025 13:42:14 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 14:15:56 Europe/Berlin] Received order request: {"items":[{"id":"3","name":"Latte","price":90,"quantity":1}],"table_number":"16","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 14:15:56 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 14:15:56 Europe/Berlin] Database connection successful
+[04-Dec-2025 14:15:56 Europe/Berlin] Processing products: 3
+[04-Dec-2025 14:15:56 Europe/Berlin] Creating order with total amount: 90
+[04-Dec-2025 14:15:56 Europe/Berlin] Table number: 16
+[04-Dec-2025 14:15:56 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 14:15:56 Europe/Berlin] Generated order number: ORD-20251204-4760
+[04-Dec-2025 14:15:56 Europe/Berlin] Order created successfully with ID: 88
+[04-Dec-2025 14:15:56 Europe/Berlin] Added order item: Product ID 3, Quantity 1
+[04-Dec-2025 14:15:56 Europe/Berlin] Transaction committed successfully
+[04-Dec-2025 14:16:19 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"18","payment_method":"gcash","dining_option":"dine_in"}
+[04-Dec-2025 14:16:19 Europe/Berlin] Attempting database connection...
+[04-Dec-2025 14:16:19 Europe/Berlin] Database connection successful
+[04-Dec-2025 14:16:19 Europe/Berlin] Processing products: 10
+[04-Dec-2025 14:16:19 Europe/Berlin] Creating order with total amount: 100
+[04-Dec-2025 14:16:19 Europe/Berlin] Table number: 18
+[04-Dec-2025 14:16:19 Europe/Berlin] Dining option: dine_in
+[04-Dec-2025 14:16:19 Europe/Berlin] Generated order number: ORD-20251204-1740
+[04-Dec-2025 14:16:19 Europe/Berlin] Order created successfully with ID: 89
+[04-Dec-2025 14:16:19 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[04-Dec-2025 14:16:19 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 13:38:42 Europe/Berlin] Processing online order for customer ID: 2
+[07-Dec-2025 13:38:42 Europe/Berlin] Processing products: 16
+[07-Dec-2025 13:38:42 Europe/Berlin] Generated online order number: ONL-20251207-6552
+[07-Dec-2025 13:38:42 Europe/Berlin] Online order created successfully with ID: 90
+[07-Dec-2025 13:38:42 Europe/Berlin] Added order item: Product ID 16, Quantity 1
+[07-Dec-2025 13:38:42 Europe/Berlin] Online order transaction committed successfully
+[07-Dec-2025 13:48:10 Europe/Berlin] Received order request: {"items":[{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"8","name":"Cappuccino","price":120,"quantity":1}],"table_number":"15","payment_method":"gcash","dining_option":"dine_in"}
+[07-Dec-2025 13:48:10 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 13:48:10 Europe/Berlin] Database connection successful
+[07-Dec-2025 13:48:10 Europe/Berlin] Processing products: 2, 8
+[07-Dec-2025 13:48:10 Europe/Berlin] Creating order with total amount: 200
+[07-Dec-2025 13:48:10 Europe/Berlin] Table number: 15
+[07-Dec-2025 13:48:10 Europe/Berlin] Dining option: dine_in
+[07-Dec-2025 13:48:10 Europe/Berlin] Generated order number: ORD-20251207-1520
+[07-Dec-2025 13:48:10 Europe/Berlin] Order created successfully with ID: 91
+[07-Dec-2025 13:48:10 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[07-Dec-2025 13:48:10 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[07-Dec-2025 13:48:10 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 14:03:34 Europe/Berlin] Received order request: {"items":[{"id":"12","name":"Caramel Macchiato","price":150,"quantity":1},{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"16","payment_method":"gcash","dining_option":"dine_in"}
+[07-Dec-2025 14:03:34 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 14:03:34 Europe/Berlin] Database connection successful
+[07-Dec-2025 14:03:34 Europe/Berlin] Processing products: 12, 10
+[07-Dec-2025 14:03:34 Europe/Berlin] Creating order with total amount: 250
+[07-Dec-2025 14:03:34 Europe/Berlin] Table number: 16
+[07-Dec-2025 14:03:34 Europe/Berlin] Dining option: dine_in
+[07-Dec-2025 14:03:34 Europe/Berlin] Generated order number: ORD-20251207-2491
+[07-Dec-2025 14:03:34 Europe/Berlin] Order created successfully with ID: 92
+[07-Dec-2025 14:03:34 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[07-Dec-2025 14:03:34 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[07-Dec-2025 14:03:34 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 14:05:30 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"17","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:05:30 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 14:05:30 Europe/Berlin] Database connection successful
+[07-Dec-2025 14:05:30 Europe/Berlin] Processing products: 10, 2
+[07-Dec-2025 14:05:30 Europe/Berlin] Creating order with total amount: 180
+[07-Dec-2025 14:05:30 Europe/Berlin] Table number: 17
+[07-Dec-2025 14:05:30 Europe/Berlin] Dining option: take_out
+[07-Dec-2025 14:05:30 Europe/Berlin] Generated order number: ORD-20251207-8523
+[07-Dec-2025 14:05:30 Europe/Berlin] Order created successfully with ID: 93
+[07-Dec-2025 14:05:30 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[07-Dec-2025 14:05:30 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[07-Dec-2025 14:05:30 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 14:05:32 Europe/Berlin] Received order request: {"items":[],"table_number":"17","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:05:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php on line 140
+[07-Dec-2025 14:05:51 Europe/Berlin] Received order request: {"items":[],"table_number":"17","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:05:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php on line 140
+[07-Dec-2025 14:06:58 Europe/Berlin] Received order request: {"items":[],"table_number":"17","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:06:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php on line 140
+[07-Dec-2025 14:07:05 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"15","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:07:05 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 14:07:05 Europe/Berlin] Database connection successful
+[07-Dec-2025 14:07:05 Europe/Berlin] Processing products: 10, 2
+[07-Dec-2025 14:07:05 Europe/Berlin] Creating order with total amount: 180
+[07-Dec-2025 14:07:05 Europe/Berlin] Table number: 15
+[07-Dec-2025 14:07:05 Europe/Berlin] Dining option: take_out
+[07-Dec-2025 14:07:05 Europe/Berlin] Generated order number: ORD-20251207-5985
+[07-Dec-2025 14:07:05 Europe/Berlin] Order created successfully with ID: 94
+[07-Dec-2025 14:07:05 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[07-Dec-2025 14:07:05 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[07-Dec-2025 14:07:05 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 14:07:07 Europe/Berlin] Received order request: {"items":[],"table_number":"15","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:07:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: There is no active transaction in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php:140
+Stack trace:
+#0 C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php(140): PDO->rollBack()
+#1 {main}
+  thrown in C:\xampp\htdocs\PrototypeMSYSADD1\process_kiosk_order.php on line 140
+[07-Dec-2025 14:08:49 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:08:49 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 14:08:49 Europe/Berlin] Database connection successful
+[07-Dec-2025 14:08:49 Europe/Berlin] Processing products: 10, 2
+[07-Dec-2025 14:08:49 Europe/Berlin] Creating order with total amount: 180
+[07-Dec-2025 14:08:49 Europe/Berlin] Table number: 12
+[07-Dec-2025 14:08:49 Europe/Berlin] Dining option: take_out
+[07-Dec-2025 14:08:49 Europe/Berlin] Generated order number: ORD-20251207-0621
+[07-Dec-2025 14:08:49 Europe/Berlin] Order created successfully with ID: 95
+[07-Dec-2025 14:08:49 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[07-Dec-2025 14:08:49 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[07-Dec-2025 14:08:49 Europe/Berlin] Transaction committed successfully
+[07-Dec-2025 14:08:52 Europe/Berlin] Received order request: {"items":[],"table_number":"12","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:08:52 Europe/Berlin] Error processing order: Your cart is empty. Please add items before placing an order.
+[07-Dec-2025 14:08:52 Europe/Berlin] Stack trace: #0 {main}
+[07-Dec-2025 14:11:26 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"14","payment_method":"gcash","dining_option":"take_out"}
+[07-Dec-2025 14:11:26 Europe/Berlin] Attempting database connection...
+[07-Dec-2025 14:11:26 Europe/Berlin] Database connection successful
+[07-Dec-2025 14:11:26 Europe/Berlin] Processing products: 10, 2
+[07-Dec-2025 14:11:26 Europe/Berlin] Creating order with total amount: 180
+[07-Dec-2025 14:11:26 Europe/Berlin] Table number: 14
+[07-Dec-2025 14:11:26 Europe/Berlin] Dining option: take_out
+[07-Dec-2025 14:11:26 Europe/Berlin] Generated order number: ORD-20251207-4431
+[07-Dec-2025 14:11:26 Europe/Berlin] Order created successfully with ID: 96
+[07-Dec-2025 14:11:26 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[07-Dec-2025 14:11:26 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[07-Dec-2025 14:11:26 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:40:29 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"8","name":"Cappuccino","price":120,"quantity":1},{"id":"12","name":"Caramel Macchiato","price":150,"quantity":1},{"id":"1","name":"Espresso","price":50,"quantity":1}],"table_number":"17","payment_method":"cash","dining_option":"take_out"}
+[08-Dec-2025 06:40:29 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:40:29 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:40:29 Europe/Berlin] Processing products: 10, 2, 8, 12, 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Creating order with total amount: 500
+[08-Dec-2025 06:40:29 Europe/Berlin] Table number: 17
+[08-Dec-2025 06:40:29 Europe/Berlin] Dining option: take_out
+[08-Dec-2025 06:40:29 Europe/Berlin] Generated order number: ORD-20251208-1040
+[08-Dec-2025 06:40:29 Europe/Berlin] Order created successfully with ID: 97
+[08-Dec-2025 06:40:29 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Added order item: Product ID 1, Quantity 1
+[08-Dec-2025 06:40:29 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:40:43 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"8","name":"Cappuccino","price":120,"quantity":1}],"table_number":"18","payment_method":"gcash","dining_option":"dine_in"}
+[08-Dec-2025 06:40:43 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:40:43 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:40:43 Europe/Berlin] Processing products: 10, 2, 8
+[08-Dec-2025 06:40:43 Europe/Berlin] Creating order with total amount: 300
+[08-Dec-2025 06:40:43 Europe/Berlin] Table number: 18
+[08-Dec-2025 06:40:43 Europe/Berlin] Dining option: dine_in
+[08-Dec-2025 06:40:43 Europe/Berlin] Generated order number: ORD-20251208-4508
+[08-Dec-2025 06:40:43 Europe/Berlin] Order created successfully with ID: 98
+[08-Dec-2025 06:40:43 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:40:43 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:40:43 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 06:40:43 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:41:47 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1}],"table_number":"16","payment_method":"gcash","dining_option":"dine_in"}
+[08-Dec-2025 06:41:47 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:41:47 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:41:47 Europe/Berlin] Processing products: 10, 2
+[08-Dec-2025 06:41:47 Europe/Berlin] Creating order with total amount: 180
+[08-Dec-2025 06:41:47 Europe/Berlin] Table number: 16
+[08-Dec-2025 06:41:47 Europe/Berlin] Dining option: dine_in
+[08-Dec-2025 06:41:47 Europe/Berlin] Generated order number: ORD-20251208-1426
+[08-Dec-2025 06:41:47 Europe/Berlin] Order created successfully with ID: 99
+[08-Dec-2025 06:41:47 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:41:47 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:41:47 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:48:02 Europe/Berlin] Received order request: {"items":[{"id":"8","name":"Cappuccino","price":120,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"10","name":"Americano","price":100,"quantity":1}],"table_number":"12","payment_method":"gcash","dining_option":"take_out"}
+[08-Dec-2025 06:48:02 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:48:02 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:48:02 Europe/Berlin] Processing products: 8, 2, 10
+[08-Dec-2025 06:48:02 Europe/Berlin] Creating order with total amount: 300
+[08-Dec-2025 06:48:02 Europe/Berlin] Table number: 12
+[08-Dec-2025 06:48:02 Europe/Berlin] Dining option: take_out
+[08-Dec-2025 06:48:02 Europe/Berlin] Generated order number: ORD-20251208-3794
+[08-Dec-2025 06:48:02 Europe/Berlin] Order created successfully with ID: 100
+[08-Dec-2025 06:48:02 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 06:48:02 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:48:02 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:48:02 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:52:15 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"8","name":"Cappuccino","price":120,"quantity":1}],"table_number":"19","payment_method":"gcash","dining_option":"dine_in"}
+[08-Dec-2025 06:52:15 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:52:15 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:52:15 Europe/Berlin] Processing products: 10, 2, 8
+[08-Dec-2025 06:52:15 Europe/Berlin] Creating order with total amount: 300
+[08-Dec-2025 06:52:15 Europe/Berlin] Table number: 19
+[08-Dec-2025 06:52:15 Europe/Berlin] Dining option: dine_in
+[08-Dec-2025 06:52:15 Europe/Berlin] Generated order number: ORD-20251208-2570
+[08-Dec-2025 06:52:15 Europe/Berlin] Order created successfully with ID: 101
+[08-Dec-2025 06:52:15 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:52:15 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:52:15 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 06:52:15 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 06:52:42 Europe/Berlin] Received order request: {"items":[{"id":"10","name":"Americano","price":100,"quantity":1},{"id":"2","name":"Cappuccino","price":80,"quantity":1},{"id":"8","name":"Cappuccino","price":120,"quantity":1},{"id":"12","name":"Caramel Macchiato","price":150,"quantity":1}],"table_number":"17","payment_method":"gcash","dining_option":"take_out"}
+[08-Dec-2025 06:52:42 Europe/Berlin] Attempting database connection...
+[08-Dec-2025 06:52:42 Europe/Berlin] Database connection successful
+[08-Dec-2025 06:52:42 Europe/Berlin] Processing products: 10, 2, 8, 12
+[08-Dec-2025 06:52:42 Europe/Berlin] Creating order with total amount: 450
+[08-Dec-2025 06:52:42 Europe/Berlin] Table number: 17
+[08-Dec-2025 06:52:42 Europe/Berlin] Dining option: take_out
+[08-Dec-2025 06:52:42 Europe/Berlin] Generated order number: ORD-20251208-2886
+[08-Dec-2025 06:52:42 Europe/Berlin] Order created successfully with ID: 102
+[08-Dec-2025 06:52:42 Europe/Berlin] Added order item: Product ID 10, Quantity 1
+[08-Dec-2025 06:52:42 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 06:52:42 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 06:52:42 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[08-Dec-2025 06:52:42 Europe/Berlin] Transaction committed successfully
+[08-Dec-2025 12:12:32 Europe/Berlin] Processing online order for customer ID: 2
+[08-Dec-2025 12:12:32 Europe/Berlin] Processing products: 12, 8, 2
+[08-Dec-2025 12:12:32 Europe/Berlin] Generated online order number: ONL-20251208-1782
+[08-Dec-2025 12:12:32 Europe/Berlin] Online order created successfully with ID: 103
+[08-Dec-2025 12:12:32 Europe/Berlin] Added order item: Product ID 12, Quantity 1
+[08-Dec-2025 12:12:32 Europe/Berlin] Added order item: Product ID 8, Quantity 1
+[08-Dec-2025 12:12:32 Europe/Berlin] Added order item: Product ID 2, Quantity 1
+[08-Dec-2025 12:12:32 Europe/Berlin] Online order transaction committed successfully
